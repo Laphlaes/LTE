@@ -1,2 +1,1 @@
-# LTE
-Conteúdos do Lab. de Tec. Educacionais
+Conteúdos do LTE (Laboratório de Tecnologias Educacionais)
