@@ -1,0 +1,15 @@
+INSERT INTO turma (codigo, nome_turma) VALUES ('701MAT', 'Sétima Série Um Matutino');
+INSERT INTO turma (codigo, nome_turma) VALUES ('702MAT', 'Sétima Série Dois Matutino');
+INSERT INTO turma (codigo, nome_turma) VALUES ('801MAT', 'Oitava Série Um Matutino');
+INSERT INTO turma (codigo, nome_turma) VALUES ('802VES', 'Oitava Série Dois Vespertino');
+INSERT INTO turma (codigo, nome_turma) VALUES ('901MAT', 'Nona Série Um Matutino');
+INSERT INTO turma (codigo, nome_turma) VALUES ('902VES', 'Nona Série Dois Vespertino');
+INSERT INTO turma (codigo, nome_turma) VALUES ('101INFO', 'Primeiro Ano Um Técnico em Informática');
+INSERT INTO turma (codigo, nome_turma) VALUES ('102LOG', 'Primeiro Ano Dois Técnico em Logística');
+INSERT INTO turma (codigo, nome_turma) VALUES ('104LOG', 'Primeiro Ano Quatro Técnico em Logística');
+INSERT INTO turma (codigo, nome_turma) VALUES ('106INFO', 'Primeiro Ano Seis Técnico em Informática');
+INSERT INTO turma (codigo, nome_turma) VALUES ('201SST', 'Segundo Ano Um Técnico em Segurança do Trabalho');
+INSERT INTO turma (codigo, nome_turma) VALUES ('201EDF', 'Segundo Ano Um Técnico em Edificações');
+INSERT INTO turma (codigo, nome_turma) VALUES ('202INFO', 'Segundo Ano Dois Técnico em Informática');
+INSERT INTO turma (codigo, nome_turma) VALUES ('301POR', 'Terceiro Ano Um Técnico em Portos');
+INSERT INTO turma (codigo, nome_turma) VALUES ('302EDF', 'Terceiro Ano Dois Técnico em Edificações');
